@@ -1,0 +1,11 @@
+Alvaro
+	Worked on modifications load and test cases. Also modified toString() in Table.
+Prajjwal
+	Fixed style issues
+	Fixed Test Cases on TableTest to account for headers
+	Created check(Table, Table, int, int), check(Table, Table, String, String) and check(String) methods
+	Created isCheck() method in CSVProcessor
+Ansar
+	Created sprint backlog for current week
+Hardarshan
+	Worked on modifying test cases for Rows expression.

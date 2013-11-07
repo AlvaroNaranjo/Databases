@@ -1,0 +1,8 @@
+Prajjwal
+	Bug-fixes, minor style adjustments
+Hardarshan
+	Changed Columns and Rows to accomodate new methods and use of headers. Added stringArrayToIntList method in Database and getDefintionList in Table.
+Ansar
+	Nothing
+Alvaro
+	Nothing

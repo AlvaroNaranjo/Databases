@@ -1,0 +1,8 @@
+Alvaro
+	worked on integrating load to CSVProcessor, fixed isLoad and load conditional in parseText. Also modified message of NoSuchTableExceptionThrown by load in Database.java.
+Prajjwal
+	Nothing
+Ansar
+	Completed outer join expression and test cases.
+Hardarshan
+	Worked on Check Columns for Columns expression and its test cases.

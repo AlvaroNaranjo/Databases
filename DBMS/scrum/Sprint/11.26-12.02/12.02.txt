@@ -1,0 +1,8 @@
+Prajjwal:
+	More minor style fixes, final check before handing in
+Ansar:
+	Fixed style on outer join and added test cases.
+Hardarshan:
+	Fixed some style issues in various files.
+Alvaro
+	Fixed style.

@@ -1,0 +1,8 @@
+Alvaro
+	fixed isDefine to accept column definitions enclosed in parenthesis. Fixed tests for isLoad, isDefine and other commands in CSVProcessorTest. Fixed and added tests for Table.
+Prajjwal 
+	Nothing
+Ansar 
+	Nothing
+Hardarshan
+	Worked on checkColumns for Rows expression and its test cases.

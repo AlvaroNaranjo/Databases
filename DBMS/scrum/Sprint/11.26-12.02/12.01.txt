@@ -1,0 +1,10 @@
+Alvaro:
+	Fixed how parsetext calls load on CSVProcessor due syntax compliance with [headed]. Fixed bugs regarding .trim() in join and orderBy in Database. Added test cases for join by column reference in outer join case. Fixed isOrderBy in processor to allow orderBy column reference. Modified outer join so that takes in reference by column name in the process fixed isOuterJoin and isAssign in the processor. Bug fix to outerJoin in Database it was not parsing "outer join" input properly: it is bundled but it was assumed already serparated like: "outer", "join".
+
+Hardarshan:
+	Fixed some styling in Table.java and Database.java; added javadoc for stringArrayToIntList in Database.java; Added a test case for the Rows expression which using string comparison as opposed to integer comparison.
+
+Prajjwal:
+	Style Fixes
+Ansar:
+	Nothing

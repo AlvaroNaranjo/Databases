@@ -1,0 +1,9 @@
+Ansar 
+	Added natural join and outer join syntax checks in CSVProcessor. Fixed natural join to account for outer.
+Prajjwal
+	Style fixes and various other efficiency fixes.
+Alvaro
+	Fixed isLoad, isRows, etc to trim command name. fixed join refering by column name, added else statement. Killed some bugs here and there.
+
+Hardarshan
+	Nothing

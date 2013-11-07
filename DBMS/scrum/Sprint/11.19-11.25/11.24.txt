@@ -1,0 +1,8 @@
+Prajjwal
+	Finished work on Define command
+Hardarshan
+	Nothing
+Ansar
+	Nothing
+Alvaro
+	Worked on load implementation.
