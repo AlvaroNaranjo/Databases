@@ -1,4 +1,4 @@
---QUERY1: Find the number of sines that are produced by the country 'Spain'
+--QUERY1: Find the number of wines that are produced by the country 'Spain'
 --after the year 200 at a discount
 ---------------------------------------------------------------------------
 INSERT INTO Query1
